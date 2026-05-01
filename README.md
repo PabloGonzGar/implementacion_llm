@@ -2,7 +2,7 @@
 
 **Centro FP Superior · Campus Cámara de Comercio de Sevilla · Abril 2026**
 
-| 👤 Miguel | 👤 Adrián | 👤 Pablo |
+| 👤 Miguel J | 👤 Adrián | 👤 Pablo |
 |:---:|:---:|:---:|
 | **Data & Encoder** | **Generación & Decoder** | **Pipeline & Comunicación** |
 
